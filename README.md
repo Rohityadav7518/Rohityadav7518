@@ -10,7 +10,8 @@ My zen? A perfectly tuned ``` ```, the click of a mechanical keyboard, and freez
 ### 📧 You can reach me at
 
 
-* Discord [`Rohityadav7518`](https://discord.gg/7YvNafxMWe)
+* Discord [`Rohityadav7518`](https://discord.com/channels/@me)
+* linkedin[`Rohityadav7518`](https://www.linkedin.com/in/rohit-yadav-2872)
 * Email `t [at] Rohityadav7518 [dot] com`
 
 #### 👷 What am I working on:
@@ -36,6 +37,5 @@ My zen? A perfectly tuned ``` ```, the click of a mechanical keyboard, and freez
     <a href="#"><img alt="Rohityadav7518 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohityadav7518&custom_title=Rohityadav7518%27s%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true" /></a>
 <div> 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
