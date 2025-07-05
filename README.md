@@ -19,7 +19,7 @@ My zen? A perfectly tuned  the click of a mechanical keyboard, and freezing life
 
 #### 🌱 My latest projects
 
-- [Rohityadav7518/Chatty](https://github.com/Rohityadav7518/Chatty) - A Chat app to call for my friend
+- [Rohityadav7518/Chatty](https://github.com/Rohityadav7518/Chatty) - A Chat app to call fto explore socket.io and realtime data-communication
 - [Rohityadav7518/Stream_video](https://github.com/Rohityadav7518/Stream_video) - A video calling and recording app
 
 #### ⭐ Recent Stars
