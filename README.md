@@ -4,7 +4,7 @@ I’m an independent programmer from India, fueled by open-source, automation, a
 
 My zen? A perfectly tuned  the click of a mechanical keyboard, and freezing life’s fleeting moments into frames. Let’s chat about Linux sorcery, crypto bots, or FPS tactics!
 
-### 📧 You can reach me at
+### 📧  You can reach me at
 
 
 * Discord [`Rohityadav7518`](https://discord.gg/duYyNtQD)
