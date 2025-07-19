@@ -9,7 +9,7 @@ My zen? A perfectly tuned  the click of a mechanical keyboard, and freezing life
 
 * Discord [`Rohityadav7518`](https://discord.gg/duYyNtQD)
 * linkedin[`Rohityadav7518`](https://www.linkedin.com/in/rohit-yadav-2872roll)
-* Email `rohityadav36611 [at] gmail dot] com`
+* Email `rohityadav36611 [at] gmaildot]com`
 
 #### 👷 What am I working on:
 
