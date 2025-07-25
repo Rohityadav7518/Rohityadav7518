@@ -14,7 +14,7 @@ My zen? A perfectly tuned  the click of a mechanical keyboard, and freezing life
 #### 👷 What am I working on:
 
 
-- [Rohityadav7518/Abac_node](https://github.com/Rohityadav7518/Abac_node) - Accessing your local service should be simple ( avilable soon )
+- [Rohityadav7518/Abac_node](https://github.com/Rohityadav7518/Abac_node) - Accessing your local service should be simple ( wait a bit )
 
 
 #### 🌱 My latest projects
